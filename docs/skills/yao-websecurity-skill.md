@@ -246,6 +246,7 @@ PDF 用于快速浏览和正式分发：
 - [Skill 入口](../../skills/yao-websecurity-skill/SKILL.md)
 - [目录说明](../../skills/yao-websecurity-skill/README.md)
 - [审查方法](../../skills/yao-websecurity-skill/references/security-audit-method.md)
+- [网站安全审查 AI Skill 设计与漏洞知识库报告 DOCX 原始参考稿](../../skills/yao-websecurity-skill/references/网站安全审查AI_Skill设计与漏洞知识库报告.docx)
 - [审查模式](../../skills/yao-websecurity-skill/references/review-modes.md)
 - [报告契约](../../skills/yao-websecurity-skill/references/report-contract.md)
 - [扫描器注册表](../../skills/yao-websecurity-skill/references/scanner-registry.md)

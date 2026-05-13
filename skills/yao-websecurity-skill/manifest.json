@@ -29,6 +29,11 @@
       "title": "网站安全审查 AI Skill 设计与漏洞知识库报告",
       "path": "references/security-audit-method.md",
       "checked_at": "2026-05-12"
+    },
+    {
+      "title": "网站安全审查 AI Skill 设计与漏洞知识库报告 DOCX 原始参考稿",
+      "path": "references/网站安全审查AI_Skill设计与漏洞知识库报告.docx",
+      "checked_at": "2026-05-13"
     }
   ],
   "external_benchmarks": [

@@ -156,6 +156,7 @@ python3 scripts/security_audit_report.py render \
 
 - [Skill 入口](SKILL.md)
 - [审查方法](references/security-audit-method.md)
+- [网站安全审查 AI Skill 设计与漏洞知识库报告 DOCX 原始参考稿](references/网站安全审查AI_Skill设计与漏洞知识库报告.docx)
 - [审查模式](references/review-modes.md)
 - [报告契约](references/report-contract.md)
 - [扫描器注册表](references/scanner-registry.md)
