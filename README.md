@@ -146,6 +146,7 @@ yao-open-skills/
 5. [报告契约](skills/yao-websecurity-skill/references/report-contract.md)
 6. [漏洞本体](skills/yao-websecurity-skill/references/vulnerability-ontology.csv)
 7. [报告脚本](skills/yao-websecurity-skill/scripts/security_audit_report.py)
+8. [虚构示例报告](skills/yao-websecurity-skill/examples/fictional-starbridge-audit/README.md)
 
 ### Yao Tutorial Skill
 

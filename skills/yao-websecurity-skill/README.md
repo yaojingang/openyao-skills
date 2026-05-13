@@ -139,6 +139,19 @@ python3 scripts/security_audit_report.py render \
 - PDF：从 HTML 打印渲染，强调稳定排版、分页和浏览体验。
 - JSON：保留结构化审查台账，便于复测、二次渲染或自动化集成。
 
+## 示例报告
+
+公开副本包含一套完全虚构的示例报告，用来展示真实审查交付物的结构和排版：
+
+- [StarBridge Portal 安全审查示例](examples/fictional-starbridge-audit/README.md)
+- [HTML 报告](examples/fictional-starbridge-audit/安全审查报告.html)
+- [PDF 报告](examples/fictional-starbridge-audit/安全审查报告.pdf)
+- [Excel 评分表](examples/fictional-starbridge-audit/安全审查评分表.xlsx)
+- [Markdown 报告](examples/fictional-starbridge-audit/安全审查报告.md)
+- [Sanitized JSON](examples/fictional-starbridge-audit/security_review.sanitized.json)
+
+该示例不对应任何真实项目。系统名称、漏洞、证据、端点、代码路径和提交号均为虚构内容。
+
 ## 关键文件
 
 - [Skill 入口](SKILL.md)

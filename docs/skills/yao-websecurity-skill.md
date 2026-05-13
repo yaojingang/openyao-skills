@@ -215,6 +215,19 @@ PDF 用于快速浏览和正式分发：
 - 默认中文
 - 控制页边距、分页、字体、长路径和宽表格换行
 
+## 示例报告
+
+公开仓库里包含一套完全虚构的 `StarBridge Portal` 安全审查示例，用来展示这个 Skill 的交付物形态：
+
+- [示例说明](../../skills/yao-websecurity-skill/examples/fictional-starbridge-audit/README.md)
+- [HTML 报告](../../skills/yao-websecurity-skill/examples/fictional-starbridge-audit/安全审查报告.html)
+- [PDF 报告](../../skills/yao-websecurity-skill/examples/fictional-starbridge-audit/安全审查报告.pdf)
+- [Excel 评分表](../../skills/yao-websecurity-skill/examples/fictional-starbridge-audit/安全审查评分表.xlsx)
+- [Markdown 报告](../../skills/yao-websecurity-skill/examples/fictional-starbridge-audit/安全审查报告.md)
+- [Sanitized JSON](../../skills/yao-websecurity-skill/examples/fictional-starbridge-audit/security_review.sanitized.json)
+
+这套示例以真实报告的版式为原型，但目标对象、漏洞、路径、端点、证据、账号、提交号和整改建议都已替换为虚构内容。它只用于展示报告结构，不代表任何真实系统的安全状态。
+
 ## 与普通扫描器的区别
 
 普通扫描器更像工具，输入目标，输出发现。
